@@ -1,22 +1,22 @@
-# MoveHalfPixel for Figma
+# ↔️ MoveHalfPixel for Figma ↕️
 
-> A Figma plugin to move layers half pixel.
+> 🤘 A Figma plugin to move layers half pixel. 😎
 
-## Commands
+## 👨‍💻 Commands 👩‍💻
 
-### MoveUp
+### 🔼 MoveUp 🔼
 
 Move up 0.5px.
 
-### MoveRight
+### ▶️ MoveRight ▶️
 
 Move right 0.5px.
 
-### MoveDown
+### 🔽 MoveDown 🔽
 
 Move down 0.5px.
 
-### MoveLeft
+### ◀️ MoveLeft ◀️
 
 Move left 0.5px.
 
@@ -30,24 +30,24 @@ Move left 0.5px.
 
 ### Register shortcuts.
 
-Application: `Figma`
+* Application: `Figma`
 
 #### MoveUp
 
-Menu Title: `Plugins->MoveHalfPixel->MoveUp`
-Keyboard Shortcut: `Option + ↑` (as you like)
+* Menu Title: `Plugins->MoveHalfPixel->MoveUp`
+* Keyboard Shortcut: `Option + ↑` (as you like)
 
 #### MoveRight
 
-Menu Title: `Plugins->MoveHalfPixel->MoveRight`
-Keyboard Shortcut: `Option + →` (as you like)
+* Menu Title: `Plugins->MoveHalfPixel->MoveRight`
+* Keyboard Shortcut: `Option + →` (as you like)
 
-### MoveDown
+#### MoveDown
 
-Menu Title: `Plugins->MoveHalfPixel->MoveDown`
-Keyboard Shortcut: `Option + ↓` (as you like)
+* Menu Title: `Plugins->MoveHalfPixel->MoveDown`
+* Keyboard Shortcut: `Option + ↓` (as you like)
 
-### MoveLeft
+#### MoveLeft
 
-Menu Title: `Plugins->MoveHalfPixel->MoveLeft`
-Keyboard Shortcut: `Option + ←` (as you like)
+* Menu Title: `Plugins->MoveHalfPixel->MoveLeft`
+* Keyboard Shortcut: `Option + ←` (as you like)
