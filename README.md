@@ -1,7 +1,6 @@
 # ↔️ MoveHalfPixel for Figma ↕️
-
 > 🤘 A Figma plugin to move layers half pixel. 😎
-
+![thumbnail](https://user-images.githubusercontent.com/26219456/75258669-2de3dc80-582a-11ea-9102-51d7f7e379fc.png)
 ## 👨‍💻 Commands 👩‍💻
 
 ### 🔼 MoveUp 🔼
