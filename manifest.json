@@ -1,0 +1,12 @@
+{
+  "name": "MoveHalfPixel",
+  "id": "814122622916378118",
+  "api": "1.0.0",
+  "main": "code.js",
+  "menu": [
+    { "name": "MoveUp", "command": "moveUp" },
+    { "name": "MoveRight", "command": "moveRight" },
+    { "name": "MoveDown", "command": "moveDown" },
+    { "name": "MoveLeft", "command": "moveLeft" }
+  ]
+}
