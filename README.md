@@ -21,16 +21,15 @@ Move down 0.5px.
 Move left 0.5px.
 
 ## How to setup shortcut key?
-![02](https://user-images.githubusercontent.com/26219456/75257394-3c30f900-5828-11ea-86c3-0f8cf2ed3fb2.png)
+
+![01](https://user-images.githubusercontent.com/26219456/75257387-389d7200-5828-11ea-8e2e-187d4dbd7292.png)
 1. Go to System Preferences.
-
-2. Click "Keyboard"
-
+2. Click "Keyboard".
 3. Select "App Shortcuts".
 
+### Shortcuts
 
-### Shortcuts.
-![01](https://user-images.githubusercontent.com/26219456/75257387-389d7200-5828-11ea-8e2e-187d4dbd7292.png)
+![02](https://user-images.githubusercontent.com/26219456/75257394-3c30f900-5828-11ea-86c3-0f8cf2ed3fb2.png)
 * Application: `Figma`
 
 #### MoveUp
