@@ -51,3 +51,6 @@ Move left 0.5px.
 
 * Menu Title: `Plugins->MoveHalfPixel->MoveLeft`
 * Keyboard Shortcut: `Option + ←` (as you like)
+
+## License
+MIT
